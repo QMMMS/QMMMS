@@ -5,6 +5,7 @@
       "projectList": "项目经验",
       "skillList": "个人技能",
       "awardList": "更多信息",
+      "awardList2": "更多信息2",
       "workList": "个人作品",
       "aboutme": "个人评价"
     },
@@ -32,6 +33,20 @@
       }
     ],
     "awardList": [
+      {
+        "award_info": "英语 CET6",
+        "award_time": "2015"
+      },
+      {
+        "award_info": "蚂蚁近卫军 卓越个人奖",
+        "award_time": "2018.09"
+      },
+      {
+        "award_info": "前端练习生 可视化讲师",
+        "award_time": "2020.10"
+      }
+    ],
+    "awardList2": [
       {
         "award_info": "英语 CET6",
         "award_time": "2015"
