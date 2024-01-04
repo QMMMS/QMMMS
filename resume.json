@@ -1,7 +1,7 @@
 {
     "titleNameMap": {
       "educationList": "教育qwe背景",
-      "workExpList": "工作经13历",
+      "workExpList": "科创竞赛",
       "projectList": "项目qwe经验",
       "skillList": "个人adsf技能",
       "awardList": "更多信息123123",
@@ -10,15 +10,15 @@
       "aboutme": "个人12312评价"
     },
     "avatar": {
-      "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+      "src": "https://qmmms.github.io/assets/img/avatar/my-avatar.jpeg",
       "hidden": false
     },
     "profile": {
-      "name": "廖晓娟 (新茗)",
-      "email": "736xxxx86@qq.com",
-      "mobile": "156xxxx7119",
-      "github": "https://github.com/visiky (1.1k 粉丝)",
-      "zhihu": "https://www.zhihu.com/people/visiky",
+      "name": "秦卯升",
+      "email": "1595168717@qq.com",
+      "mobile": "15061819177",
+      "github": "https://qmmms.github.io/",
+      "zhihu": "",
       "workExpYear": ""
     },
     "educationList": [
