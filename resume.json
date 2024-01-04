@@ -19,7 +19,8 @@
       "mobile": "15061819177",
       "github": "https://qmmms.github.io/",
       "zhihu": "",
-      "workExpYear": ""
+      "workExpYear": "",
+      "workPlace":"江苏省无锡市"
     },
     "educationList": [
       {
@@ -63,6 +64,15 @@
     "workExpList": [
       {
         "company_name": "2023 睿抗机器人开发者大赛(RAICOM) CAIP 编程设计赛道全国总决赛一等奖",
+        "department_name": "单人参赛",
+        "work_time": [
+          "2023.08",
+          null
+        ],
+        "work_desc": ""
+      },
+      {
+        "company_name": "2023年第五届全球校园人工智能算法精英大赛全国总决赛二等奖",
         "department_name": "队长",
         "work_time": [
           "2023.12",
@@ -71,22 +81,22 @@
         "work_desc": ""
       },
       {
-        "company_name": "蚂蚁金服",
-        "department_name": "大数据部",
+        "company_name": "2023-2024年度全国大学生计算机应用能力大赛暨第六届传智杯程序设计赛道A组省赛一等奖",
+        "department_name": "单人参赛",
         "work_time": [
-          "2017.06",
-          "2017.12"
+          "2024.01",
+          null
         ],
-        "work_desc": "前端实习生。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
+        "work_desc": ""
       },
       {
-        "company_name": "数沃信息科技有限公司",
-        "department_name": "",
+        "company_name": "第十四届蓝桥杯 C/C++程序设计竞赛大学 A 组辽宁赛区二等奖",
+        "department_name": "单人参赛",
         "work_time": [
-          "2017.03",
-          "2017.05"
+          "2023.04",
+          null
         ],
-        "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+        "work_desc": ""
       }
     ],
     "skillList": [],
