@@ -10,8 +10,9 @@
       "aboutme": "个人介绍"
     },
     "avatar": {
-      "src": "https://qmmms.github.io/assets/img/posts/2023-07-18-%E5%B8%86%E8%BD%AFQ&A/mmexport1628412059332.jpg",
-      "hidden": false
+      "src": "https://qmmms.github.io/assets/img/posts/2023-07-18-%E5%B8%86%E8%BD%AFQ&A/mmexport1628412059332.png",
+      "hidden": false,
+      "shape":"square"
     },
     "profile": {
       "name": "秦卯升",
