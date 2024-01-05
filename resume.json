@@ -10,7 +10,7 @@
       "aboutme": "个人介绍"
     },
     "avatar": {
-      "src": "https://qmmms.github.io/assets/img/avatar/my-avatar.jpeg",
+      "src": "https://qmmms.github.io/assets/img/posts/2023-07-18-%E5%B8%86%E8%BD%AFQ&A/mmexport1628412059332.jpg",
       "hidden": false
     },
     "profile": {
@@ -64,7 +64,7 @@
     "workExpList": [
       {
         "company_name": "2023 睿抗机器人开发者大赛(RAICOM) CAIP 编程设计赛道全国总决赛一等奖",
-        "department_name": "个人参赛",
+        "department_name": "个人赛",
         "work_time": [
           "2023.08",
           null
@@ -82,7 +82,7 @@
       },
       {
         "company_name": "2023-2024全国大学生计算机应用能力大赛暨第六届传智杯程序设计赛道A组省赛一等奖",
-        "department_name": "个人参赛",
+        "department_name": "个人赛",
         "work_time": [
           "2024.01",
           null
@@ -91,7 +91,7 @@
       },
       {
         "company_name": "第十四届蓝桥杯 C/C++程序设计竞赛大学 A 组辽宁赛区二等奖",
-        "department_name": "个人参赛",
+        "department_name": "个人赛",
         "work_time": [
           "2023.04",
           null
